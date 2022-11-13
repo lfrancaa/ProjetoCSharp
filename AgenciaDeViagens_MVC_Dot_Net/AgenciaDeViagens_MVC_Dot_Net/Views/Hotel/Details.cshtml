@@ -1,0 +1,36 @@
+﻿@model AgenciaDeViagens_MVC_Dot_Net.Models.Hotel
+
+@{
+    ViewData["Title"] = "Details";
+}
+<link rel="stylesheet" href="~/css/Hoteis.css" asp-append-version="true" />
+<h1>Detalhes da Hotel</h1>
+
+<div>
+    <h4>Hotel</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LocalHotel)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LocalHotel)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ValorHospedagem)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ValorHospedagem)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.HotelId">Editar Hotel</a> |
+    <a asp-action="Index">Voltar para Lista</a>
+</div>

@@ -1,0 +1,54 @@
+﻿@model AgenciaDeViagens_MVC_Dot_Net.Models.Voo
+
+@{
+    ViewData["Title"] = "Details";
+}
+<link rel="stylesheet" href="~/css/Voos.css" asp-append-version="true" />
+<h1>Detalhes da Voo</h1>
+
+<div>
+    <h4>Voo</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Origem)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Origem)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Destino)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Destino)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Partida)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Partida)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Chegada)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Chegada)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ValorVoo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ValorVoo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Paradas)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Paradas)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.VooId">Editar Voo</a> |
+    <a asp-action="Index">Voltar para Lista</a>
+</div>

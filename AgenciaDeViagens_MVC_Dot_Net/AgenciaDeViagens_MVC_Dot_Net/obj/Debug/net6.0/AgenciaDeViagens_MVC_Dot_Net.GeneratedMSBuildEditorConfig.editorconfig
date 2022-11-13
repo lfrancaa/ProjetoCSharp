@@ -1,0 +1,168 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AgenciaDeViagens_MVC_Dot_Net
+build_property.RootNamespace = AgenciaDeViagens_MVC_Dot_Net
+build_property.ProjectDir = C:\Users\user\Desktop\Aulas de Programação - RECODE\AULAS\C#\AgenciaDeViagens_MVC_Dot_Net\AgenciaDeViagens_MVC_Dot_Net\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\Aulas de Programação - RECODE\AULAS\C#\AgenciaDeViagens_MVC_Dot_Net\AgenciaDeViagens_MVC_Dot_Net
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Contato/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Destino/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGlub1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Destino/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGlub1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Destino/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGlub1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Destino/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGlub1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Destino/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGlub1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Hotel/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Hotel/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Hotel/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Hotel/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Hotel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Passageiro/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZWlyb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Passageiro/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZWlyb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Passageiro/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZWlyb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Passageiro/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZWlyb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Passageiro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZWlyb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Passagem/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZW1cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Passagem/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZW1cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Passagem/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZW1cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Passagem/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZW1cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Passagem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Promocao/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jYW9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Promocao/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jYW9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Promocao/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jYW9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Promocao/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jYW9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Promocao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jYW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Sobre/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29icmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Voo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9vXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Voo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9vXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Voo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9vXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Voo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9vXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Voo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9vXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Aulas de Programação - RECODE/AULAS/C\#/AgenciaDeViagens_MVC_Dot_Net/AgenciaDeViagens_MVC_Dot_Net/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5xqblmpeed

@@ -1,0 +1,39 @@
+﻿@model AgenciaDeViagens_MVC_Dot_Net.Models.Promocao
+
+@{
+    ViewData["Title"] = "Delete";
+}
+<link rel="stylesheet" href="~/css/Destino.css" asp-append-version="true" />
+<h1>Deletar Promocao</h1>
+
+<h3>Confirme para Deletar!</h3>
+<div>
+    <h4>Promocao</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LocalViagem)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LocalViagem)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ValorViagem)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ValorViagem)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="PromocaoId" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+         <a asp-action="Index">Voltar para Lista</a>
+    </form>
+</div>

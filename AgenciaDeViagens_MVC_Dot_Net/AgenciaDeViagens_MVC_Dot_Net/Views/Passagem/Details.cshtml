@@ -1,0 +1,48 @@
+﻿@model AgenciaDeViagens_MVC_Dot_Net.Models.Passagem
+
+@{
+    ViewData["Title"] = "Details";
+}
+<link rel="stylesheet" href="~/css/Passagem.css" asp-append-version="true" />
+<h1>Detalhes da Passagem</h1>
+
+<div>
+    <h4>Passagem</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NomeLocalOrigem)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NomeLocalOrigem)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NomeLocalDestino)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NomeLocalDestino)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DataViagemIda)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DataViagemIda)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DataViagemVolta)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DataViagemVolta)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.PassagemId">Editar Passagem</a> |
+    <a asp-action="Index">Voltar para Lista</a>
+</div>

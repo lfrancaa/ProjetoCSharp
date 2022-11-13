@@ -1,0 +1,69 @@
+﻿@model IEnumerable<AgenciaDeViagens_MVC_Dot_Net.Models.Voo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<link rel="stylesheet" href="~/css/Voos.css" asp-append-version="true" />
+<!-- INÍCIO DO BANNER -->
+        <div class="position-relative overflow-hidden md-1 md-1">
+            <img src="../../IMG/Aeroporto.jpg" style="height: 700px; width: 100%;">
+        </div>
+<!-- FIM DO BANNER -->
+<h1>Listagem de Voos</h1>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Cadastrar Novo Voo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Origem)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Destino)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Partida)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Chegada)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorVoo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Paradas)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Origem)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Destino)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Partida)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Chegada)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValorVoo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Paradas)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.VooId">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.VooId">Detalhar</a> |
+                <a asp-action="Delete" asp-route-id="@item.VooId">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

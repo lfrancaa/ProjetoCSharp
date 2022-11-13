@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}	
+    <link rel="stylesheet" href="~/css/Contato.css" asp-append-version="true" />
+		<!-- INÍCIO DA ÁREA DE CONTATO -->
+        <main class="container d-flex justify-content-center flex-column">
+            <div>
+                <h1>Central de Atendimento</h1>
+            </div>
+            <!--Suporte-->
+            <h5 class="m-1">Suporte:</h5>
+            <div class="contato bg-light">
+                <p class="m-3">Suporte Pós Venda 11 4002 8922</p>
+            </div>
+            <!--Remarcação-->
+            <h5 class="m-1">Remarcações:</h5>
+            <div class="contato bg-light">
+                <p class="m-3">Remarcações de viagens 11 2298 0204</p>
+            </div>
+            <!--SAC-->
+            <h5 class="m-1">SAC:</h5>
+            <div class="contato bg-light">
+                <p class="m-3">11 2249 2022 / 0800 4022 8902</p>
+            </div>
+            <!--Central de Ajuda-->
+            <div class="m-1">
+                <h5 class="m-1">Central de Ajuda:</h5>
+                <p class="m-1">
+                    Envie a sua duvida para nosso e-mail:
+                </p>
+                <form action="">
+                    <div class="contato bg-light">
+                        <div class="m-1">
+                            <div class="mb-3 m-1">
+                                <label for="endereçoEmail" class="form-label"> Endereço de Email: </label>
+                                <input type="email" class="form-control" id="endereçoEmail"
+                                    placeholder="nome@exemplo.com">
+                            </div>
+                            <div class="mb-3 m-1">
+                                <label for="mensagem" class="form-label">Mensagem:</label>
+                                <textarea class="form-control" id="mensagem" rows="3"></textarea>
+                            </div>
+                            <input type="submit" class="btn btn-primary m-1" value="Enviar"></input>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </main>
+        <!-- FIM DA ÁREA DE CONTATO -->

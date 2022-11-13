@@ -1,0 +1,51 @@
+﻿@model IEnumerable<AgenciaDeViagens_MVC_Dot_Net.Models.Hotel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<link rel="stylesheet" href="~/css/Hoteis.css" asp-append-version="true" />
+<!-- INÍCIO DO BANNER -->
+        <div class="position-relative overflow-hidden md-1 md-1">
+            <img src="../../IMG/Hotel.jpg" style="height: 700px; width: 100%;">
+        </div>
+<!-- FIM DO BANNER -->
+<h1>Listagem de Hoteis</h1>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Cadastrar Novo Hotel</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LocalHotel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorHospedagem)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LocalHotel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValorHospedagem)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.HotelId">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.HotelId">Detalhar</a> |
+                <a asp-action="Delete" asp-route-id="@item.HotelId">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
